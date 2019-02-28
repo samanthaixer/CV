@@ -1,29 +1,27 @@
-## Your Name
+## Samantha Ixer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Many years ago, in a galaxy far far away, I used to write Java code in a dark room for months on end without talking to people. I fled, joining the ranks of "Project Manager" at some big retailers. As time passed, I discovered that developers aren't locked away in dark rooms anymore, that pair programming and TDD exist and so I emerged, brave and ready to become a developer again. Somewhere along that journey, I also led an initiative at John Lewis to transform their IT department into an agile engineering capability. It's a journey, and the journey continues. 
 
 ## Skills
 
-#### This Skill
+#### Leader of change and agility
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am one of the leaders at John Lewis who has led the journey towards agility, adopting early and iterative delivery of value with small teams that work together to achieve a common goal. 
 
-- Experience
-- Achievements
-- Evidence
+- Working alongside some industry leaders such as Dan North, I have kicked off and led the "Organisational Agility" initiative to change John Lewis into a responsive and agile organisation
+- Over a period of a few years we have moved from long waterfall software projects to small, iterative change and a completely different mindset. I challenge the norm and the "old school" and encourage new and innovative thinking
+- "Small and iterative" is now the normal starting point for projects
 
-#### Another Skill
+#### Developer of people
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My primary role, as well as learning code, is to develop the skills of others to help them and the organisation flourish. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I plan to run coding clubs for non-work projects to give people opportunities to practice different skills
+- I provide encouragement, direction and feedback to help people build their skills and fulfil their potential
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March to June 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of East Anglia (September 2000 to May 2003)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Computer Science
+- 2:1
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**John Lewis** (Jan 2015 to present)    
+*Many job titles, most recently an Engineering Lead but also Project Manager*  
+**Tesco** (August 2011 to Dec 2014)   
+*Project Manager and Business Analyst*  
+**Peabody Trust** (October 2010 to July 2011)   
+*Development Team Leader and Project Manager*  
+**Acturis** (March 2004 to Dec 2010)   
+*Development Team Leader and Software Developer*  
